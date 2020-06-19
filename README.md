@@ -1,11 +1,10 @@
-# Python But to post same status in multiple groups.
+# Python Bot to post same status in multiple groups.
 
 ### Requirements:
 
 Python 3,
 Selenium,
 Chrome-driver (you can change it to firefox in code if required),
-Beautiful Soup,
 
 ### Steps:
 
