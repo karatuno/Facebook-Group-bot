@@ -1,5 +1,5 @@
-text_to_be_posted='tt is tatti'
-group_links=['https://www.facebook.com/groups/582157506051065','https://www.facebook.com/groups/283001646394715']
+text_to_be_posted='your post message here'
+group_links=['https://www.facebook.com/groups/#########','https://www.facebook.com/groups/#############'] #groups links here
 
 from bs4 import BeautifulSoup
 import time
