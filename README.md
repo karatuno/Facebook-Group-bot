@@ -1,3 +1,5 @@
+## USE AT OWN RISK. May lead to ban of facebook account if used in excess.
+
 # Python Bot to post same status in multiple groups.
 
 ### Requirements:
